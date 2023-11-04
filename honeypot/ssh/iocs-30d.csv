@@ -94,3 +94,7 @@
 2023-11-04T05:40:19,220.81.215.4,SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2,9d31b8e6c87f893d077ca6526f7c710b,telnet,telnet,failed
 2023-11-04T05:56:45,167.71.56.110,SSH-2.0-libssh_0.9.6,f555226df1963d1d3c09daf865abdc9a,root,qwerty@12345,failed
 2023-11-04T05:56:49,167.71.56.110,SSH-2.0-libssh_0.9.6,f555226df1963d1d3c09daf865abdc9a,root,3245gs5662d34,failed
+2023-11-04T06:13:18,80.82.77.202,o kRH\xc5#\xf7:N\xdfⴂ/\xff	T\x9f\xa7\xc4y\xb0h\xc6\x8c\xa4="\xe1\x98 \x84\xb4,\x85\xafn\xe3Y\xbbbhl\xff(=':\xa9\x82\xd9oȢד\x98\xb4\xef\x80幐 (\xc0,f555226df1963d1d3c09daf865abdc9a,root,Qwerty1234!,failed
+2023-11-04T06:33:21,20.86.227.211,SSH-2.0-libssh_0.9.6,f555226df1963d1d3c09daf865abdc9a,root,3245gs5662d34,succeeded
+2023-11-04T06:44:09,103.179.198.14,SSH-2.0-libssh_0.9.6,f555226df1963d1d3c09daf865abdc9a,345gs5662d34,345gs5662d34,failed
+2023-11-04T06:44:12,103.179.198.14,SSH-2.0-libssh_0.9.6,f555226df1963d1d3c09daf865abdc9a,root,3245gs5662d34,succeeded
