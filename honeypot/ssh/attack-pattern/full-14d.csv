@@ -2577,6 +2577,17 @@
             "session": "dba75f3c9dc0"
         }
     ],
+    "14.46.173.251": [
+        {
+            "eventid": "cowrie.command.input",
+            "input": "./oinasf; dd if=/proc/self/exe bs=22 count=1 || while read i; do echo $i; done < /proc/self/exe || cat /proc/self/exe;",
+            "message": "CMD: ./oinasf; dd if=/proc/self/exe bs=22 count=1 || while read i; do echo $i; done < /proc/self/exe || cat /proc/self/exe;",
+            "sensor": "ubuntu-2gb-hil-1",
+            "timestamp": "2023-11-06T16:32:13.719837Z",
+            "src_ip": "14.46.173.251",
+            "session": "ad7be922f4ed"
+        }
+    ],
     "142.93.153.14": [
         {
             "eventid": "cowrie.command.input",
