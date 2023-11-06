@@ -21,6 +21,10 @@ jobs:
       run: |
         curl -o honeypot/ssh/iocs-30d.csv https://prod.fileserv03.supreme.sh/pkc/ssh/logs/honey-30d.log
 
+    - name: Attack Pattern Log import
+      run: |
+        curl -o honeypot/ssh/attack-pattern/full-14d.csv
+
     - name: Commit and push if there are changes
       run: |
         git config --global user.name 'ntwrite [via GH Actions]'
