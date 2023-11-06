@@ -1,8 +1,9 @@
-# Cylaris SSHTrap
+![alt text](https://static.wixstatic.com/media/fa2da5_a22354e11ada4292a79e0f8c2289b31b~mv2.png/v1/fill/w_243,h_113,al_c,q_85,usm_0.66_1.00_0.01/Monochrome%20on%20Transparent_edited.webp)
+
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/CyDefOps/project-killchain?style=flat-square&color=8A2BE2)
 [![TI IOC Automation - FETCH](https://github.com/cylaris/sshtrap/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/cylaris/sshtrap/actions/workflows/main.yml)
 
-## Threat Intelligence Feed
+# SSHTrap: Threat Intelligence Feed
 
 This repository is dedicated to providing a live feed of threat intelligence data, specifically Indicators of Compromise (IOCs), gathered from our SSH honeypot network. Our honeypot simulates SSH servers and records detailed information about attack patterns, which can be ingested directly into SIEM solutions for real-time security analysis.
 
