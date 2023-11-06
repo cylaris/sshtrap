@@ -23,7 +23,7 @@ jobs:
 
     - name: Attack Pattern Log import
       run: |
-        curl -o honeypot/ssh/attack-pattern/full-14d.csv
+        curl -o honeypot/ssh/attack-pattern/full-14d.csv https://prod.fileserv03.supreme.sh/pkc/ssh/logs/attack_pattern_14d.json
 
     - name: Commit and push if there are changes
       run: |
