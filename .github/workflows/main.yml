@@ -29,7 +29,7 @@ jobs:
       run: |
         git config --global user.name 'ntwrite [via GH Actions]'
         git config --global user.email 'cam@supreme.sh'
-        git add honeypot/ssh/iocs-14d.csv honeypot/ssh/iocs-30d.csv
+        git add honeypot/ssh/iocs-14d.csv honeypot/ssh/iocs-30d.csv honeypot/ssh/attack-pattern/full-14d.csv
         git diff --staged --quiet || git commit -m "Update Honeypot IOC files"
         git push || echo "No changes to commit"
       env:
